@@ -1,0 +1,14 @@
+.memory {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  margin: auto;
+  user-select: none;
+}
+
+.FenetrePP {
+  width: 300px;
+  height: 100px;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
